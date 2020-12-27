@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-image: ./resources/nxtblog.jpg
 title: Nicholas Thompsons Webpage
 subtitle: 3D Graphics, Compute, Shitposting memes.
+image: ./resources/nxtblog.jpg
+description: Nick webpage.
 show_sidebar: true
-permalink: /
 ---
 ## Lorem ipsum.
 
