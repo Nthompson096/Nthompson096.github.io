@@ -268,6 +268,7 @@ DEPENDENCIES
   bulma-clean-theme (~> 0.10.4)
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-remote-theme
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
