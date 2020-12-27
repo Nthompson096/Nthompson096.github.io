@@ -47,9 +47,10 @@ Sometimes I post nonsense to throw someone off; in fact sometimes I like talking
 
 #### and for Drives I have
 
-* Crucial SSD 229.192
+* Crucial SSD 229 GB
 * Hitachi Deskstar 2TB
 * Hitachi Deskstar 1TB
+* Laptop Drive 465 GB
 * And a DVD drive
 
 #### Favorite music genre:
