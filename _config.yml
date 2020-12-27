@@ -28,8 +28,8 @@ github_username:  meme
 
 # Build settings
 markdown: kramdown
-#remote_theme: chrisrhymes/bulma-clean-theme
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
+#theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 #  - jekyll-remote-theme
