@@ -17,14 +17,14 @@ favicon: /favicon.svg
 theme_color: '#964B00'
 footer_menu: footer_menu
 title: Nicholas Xavier Thompson
-email: your-email@example.com
+email: nxthompson96@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nicks Blog.
+  Nicks Blog, a place where i spill my mind on the internet.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: meme
-github_username:  meme
+#twitter_username: meme
+github_username: Nthompson096
 
 # Build settings
 markdown: kramdown
