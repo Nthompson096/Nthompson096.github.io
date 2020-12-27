@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128px"
+   height="128px"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/nicholas/Nthompson096.github.io/favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs3729" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-115.41244"
+     inkscape:cy="-7.5257803"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="911"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <metadata
+     id="metadata3732">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.08527136;stroke-opacity:1"
+       id="rect4555"
+       width="139.45737"
+       height="140"
+       x="-5.478682"
+       y="-5.5" />
+    <g
+       id="g4578"
+       transform="matrix(2.3289772,0,0,2.3289772,-169.23641,-82.947067)">
+      <rect
+         y="46.208389"
+         x="-14.98495"
+         height="32.908348"
+         width="102.79134"
+         id="rect4553"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15379584;stroke-opacity:1" />
+      <path
+         style="stroke-width:0.7176975"
+         inkscape:transform-center-x="-7.9969801"
+         d="m 127.60939,62.414215 -23.99093,13.851167 -23.990918,13.851164 -1e-6,-27.702332 1e-6,-27.702329 23.990928,13.851164 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="15.99395"
+         sodipodi:r1="31.987896"
+         sodipodi:cy="62.414215"
+         sodipodi:cx="95.62149"
+         sodipodi:sides="3"
+         id="path3746"
+         sodipodi:type="star" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:54.9862709px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:1.3746568;stroke-opacity:1"
+       x="0.15513802"
+       y="83.651863"
+       id="text3744"><tspan
+         sodipodi:role="line"
+         id="tspan3742"
+         x="0.15513802"
+         y="83.651863"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#fffffb;fill-opacity:1;stroke:#000000;stroke-width:1.3746568;stroke-opacity:1">NXT</tspan></text>
+  </g>
+</svg>
