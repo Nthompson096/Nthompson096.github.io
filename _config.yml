@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 favicon: /favicon.svg
-theme_color: '#964B00'
+theme_color: '#000000'
 footer_menu: footer_menu
 title: Nicholas Xavier Thompson
 email: nxthompson96@gmail.com
@@ -29,6 +29,10 @@ github_username: Nthompson096
 # Build settings
 markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
 #theme: bulma-clean-theme
 plugins:
   - jekyll-feed
