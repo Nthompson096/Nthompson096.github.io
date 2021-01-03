@@ -5,6 +5,6 @@ layout: blog
 title: Nicholas Thompsons Webpage
 subtitle: Posts
 #image: ./resources/nxtblog.jpg
-#description: Nick's webpage.
+description: Nick's webpage.
 #show_sidebar: true
 ---
