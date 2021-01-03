@@ -4,6 +4,7 @@
 layout: page
 title: Memes
 subtitle: Just some memes.
+permalink: /Memes/
 #show_sidebar: true
 ---
 
