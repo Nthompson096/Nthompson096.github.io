@@ -9,6 +9,10 @@ permalink: /Memes/
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t3ozAGSfiZw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html video="NUYvbT6vTPs" %}
 
-# Give me the gep gun
+# CatJAM
+
+{% include youtube.html video="SG-3fc9ImDo" %}
+
+# alienpls
