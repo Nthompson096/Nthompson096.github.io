@@ -6,6 +6,7 @@ title: Memes
 subtitle: Just some memes.
 hero_image: ../img/doge.jpg
 permalink: /Memes/
+gallery: spb_gallery
 #show_sidebar: true
 ---
 
