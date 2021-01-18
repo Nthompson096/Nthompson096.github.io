@@ -1,0 +1,19 @@
+- title: 3D modeling
+  images:
+    - link: ../img/tbp.jpg
+      large_link: ../img/tbp.jpg
+      alt: Some 3D works
+      description: Some 3D works
+    - link: ../img/tbp.jpg
+      large_link: ../img/tbp.jpg
+      alt: Some 3D works
+      description: |-
+        ### A title
+
+        The *image* **description** can be longer and written in markdown too.
+
+        If you want to describe your image in more detail.
+
+        * Item 1
+        * Item 2
+      ratio: is-4by3
