@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Some stuff that may or may not be relevant.
 permalink: /about/
+hero_image: /img/floppy.png
 ---
 
 # Strengths and weaknesses (career):
