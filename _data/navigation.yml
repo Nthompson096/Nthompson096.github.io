@@ -4,8 +4,8 @@
 - name: blog
   link: /blog/
   dropdown:
-  - name: Memes
-    link: /Memes/
+#  - name: Memes
+#    link: /Memes/
   - name: posts
     link: /blog/
   - name: 3D

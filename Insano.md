@@ -5,7 +5,7 @@ layout: page
 title: Insano-page
 subtitle: My insano page
 hero_image: ../img/doge.jpg
-permalink: /Memes/
+permalink: /Insano/
 gallery: spb_gallery
 #show_sidebar: true
 ---
