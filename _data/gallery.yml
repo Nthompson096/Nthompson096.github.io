@@ -1,14 +1,14 @@
 - title: 3D modeling
   images:
-    - link: ../img/3D/3D-Arm.png
-      large_link: ../img/3D/3D-Arm.png
+    - link: ../img/3D/3D-Arm.jpg
+      large_link: ../img/3D/3D-Arm_S.jpg
       alt: 3D-Arm in blender; trying to learn human toplogy
       description: 3D-Arm in blender; trying to learn human toplogy
-    - link: ../img/3D/Quake.png
-      large_link: ../img/3D/Quake.png
+    - link: ../img/3D/Quake.jpg
+      large_link: ../img/3D/Quake_S.jpg
       alt: Attempting to create the quake 2 intro inside blender.
       description: Attempting to create the quake 2 intro inside blender.
-    - link: ../img/3D/Basemesh.png
-      large_link: ../img/3D/Basemesh.png
+    - link: ../img/3D/Basemesh.jpg
+      large_link: ../img/3D/Basemesh_S.jpg
       description: Creating a 3D mashmesh inside blender.
       alt: Creating a 3D basemesh.
