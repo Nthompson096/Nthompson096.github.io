@@ -19,8 +19,10 @@ gallery: spb_gallery
 
 <h1>and then the whole audience clopped</h1>
 
-<h3> The <br> real <br> shitposts were <br> the real ones we <br> made along the <br> <br> <br> <br> way :^))).</h3>
+<h1>I dunno ask my buddy clay</h1>
+<h3>What Operating system does this use?</h3>
 
+<h3> The <br> real <br> shitposts were <br> the real ones we <br> made along the <br> <br> <br> <br> way :^))).</h3>
 
 {% include youtube.html video="NUYvbT6vTPs" %}
 
