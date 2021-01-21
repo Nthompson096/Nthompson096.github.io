@@ -8,3 +8,7 @@
       large_link: ../img/3D/Quake.png
       alt: Attempting to create the quake 2 intro inside blender.
       description: Attempting to create the quake 2 intro inside blender.
+    - link: ../img/3D/Basemesh.png
+      large_link: ../img/3D/Basemesh.png
+      description: Creating a 3D mashmesh inside blender.
+      alt: Creating a 3D basemesh.
