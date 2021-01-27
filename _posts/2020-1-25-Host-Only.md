@@ -3,7 +3,7 @@ layout: post
 title:  "Host Only mode with one nic inside Proxmox"
 summary: |-
             So far I've made a hostonly network with proxmox today for my active directory network (and             other computers if I feel like it); mind you I'm only using one phyiscal NIC (Network             Interface Card). To use create a host only network in proxmox you'd have to use the following!
-date:   2020-1-25 10:51
+date:   2021-1-25 10:51
 categories: Proxmox
 description: "Proxmox Hostonly mode with one nic"
 #image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
