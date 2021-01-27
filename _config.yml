@@ -1,52 +1,63 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-hide_share_buttons: true
-favicon: /favicon.svg
-theme_color: '#000000'
-footer_menu: footer_menu
-title: Nicholas Xavier Thompson
+# Site Settings
+title: Nicolas Xaviers Thompsons Webpage
+tagline: The NXT webpage
 email: nxthompson96@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Nicks Blog, a place where i spill my mind on the internet.
+description: 
+  My own webpage made in github pages
+permalink: pretty
+favicon: /favicon.svg
+hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: meme
-github_username: Nthompson096
-
-# Build settings
-markdown: kramdown
-remote_theme: chrisrhymes/bulma-clean-theme
-
-paginate: 5
+paginate: 3
 paginate_path: "/blog/page:num"
 
-#theme: bulma-clean-theme
-plugins:
-  
-  - jekyll-remote-theme
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+  shortname: nxthompson
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+    #  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compact
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Nicholas Xavier Thompson"
+      layout: post
+
+markdown: kramdown
+highlighter: rouge
+
+
+
+remote_theme: chrisrhymes/bulma-clean-theme
