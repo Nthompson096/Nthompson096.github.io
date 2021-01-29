@@ -12,3 +12,6 @@
       large_link: ../img/3D/Basemesh_S.jpg
       description: Creating a 3D mashmesh inside blender.
       alt: Creating a 3D basemesh.
+    - link: ../img/strogg_planet.png
+      large_link: ../img/strogg_planet.png
+      description: The strogg planet (WIP)
