@@ -24,7 +24,7 @@ published: true
         bridge-fd 0 <br>
 	# This will forward your port/address into vmbr0 which would be required for proxmox webinterface/default virtual nic, least from what I understand.
 <br>
-        post-up echo 1 > /proc/sys/net/ipv4/ip_forward 
+        post-up echo 1 > /proc/sys/net/ipv4/ip_forward
 <br>
         post-up   iptables -t nat -A POSTROUTING -s '10.0.0.0/24' -o vmbr0 -j MASQUERADE
 <br>
