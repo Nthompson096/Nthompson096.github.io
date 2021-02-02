@@ -20,9 +20,9 @@ the school decided to hire me as a student IT but under supervision I'd assume (
 <p>
 I'm interested in 3D technologies also interested in IT, you can see more in the <b>about me</b> section.
 </p>
-<p>
+<!-- <p>
 This is webpage; this is where I can spill what I'm currently doing for now on the net if I'm inclined.
 For <b>3D stuff</b> it's obvious that's in the <b>3D page in the navbar</b>, and I will be using an image gallery for my works and a few videos.<br>
 My general posts or blogs will be in the posts section of this site; though I'm still trying to plan this all out.<br>
 Who knows maybe it'll take <b>15 years</b>… <b><i>sike</i></b>
-</p>
+</p>-->
