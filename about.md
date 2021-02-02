@@ -8,6 +8,10 @@ hero_image: /img/floppy.png
 
 # Strengths and weaknesses (career):
 
+#### Good at
+
+* Computer Repair
+
 #### Comfortable:
 
 * Blender 3D
@@ -22,9 +26,13 @@ hero_image: /img/floppy.png
 * SQL/Oracle (I'm still trying to brush up on it a bit but life is **CRAZY**)
 * WebDev (Front End)
 
-## Certifications:
+#### Certifications:
 
 * Certified PC pro A+
+
+#### Honor Awards:
+* EIT Multiple High Honors awards
+* EIT Multiple Perfect Attendance awards
 
 # Useless Facts:
 
@@ -39,7 +47,7 @@ Sometimes I post nonsense to throw someone off; in fact sometimes I like talking
 #### Fact Number ***3***:
 
 
-### My PC bulid is as ***follows***:
+### My PC build is as ***follows***:
 
 * AMD Ryzen 5 16 series six core
 * Nvidia GTX 1060 6GB
@@ -56,7 +64,7 @@ Sometimes I post nonsense to throw someone off; in fact sometimes I like talking
 
 #### Favorite music genre:
 
-I have all sorts, usually just metal, death metal, trash metal; but sometimes I listen to rock, Not sure If i have a "favorite album" but I could be biased Sometimes I like listening to Halo.
+I have all sorts, usually just metal, death metal, trash metal; but sometimes I listen to rock, Not sure If I have a "favorite album" but I could be biased Sometimes I like listening to Halo or videogame music, I dunno.
 
 # I made it this far, what's my reward!?
 
