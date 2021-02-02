@@ -2,7 +2,7 @@
 title: Nicolas Xaviers Thompsons Webpage
 tagline: The NXT webpage
 email: nxthompson96@gmail.com
-description: 
+description:
   My own webpage made in github pages
 permalink: pretty
 favicon: /favicon.svg
@@ -18,8 +18,8 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: nxthompson
-  comments: true
+#  shortname: nxthompson
+#  comments: true
 
 
 plugins:
@@ -29,7 +29,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
