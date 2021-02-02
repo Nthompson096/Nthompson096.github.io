@@ -7,6 +7,7 @@ subtitle: 3D Graphics, Compute, memes.
 hero_image: /img/Star_img.png
 description: Nick's webpage.
 show_sidebar: true
+hide_hero: false
 ---
 <h1>Nicholas Thompson:</h1>
 <p>born and raised in Pennsylvania, currently a student and soon to be graduate of<br>
